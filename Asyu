@@ -155,7 +155,7 @@ http://new-pro.tv:8080/mazen1/123456/68486
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/X2WVnWr.png" group-title="Sports",Astro SUPERSPORT
 
-http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115615
+http://ultratv.one:2095/live/b6oxQeKNTb/x0zne3Wp/115615.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -164,7 +164,7 @@ http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115615
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AZQ0xgp.png" group-title="Sports",Astro SUPERSPORT 2
 
-http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115616
+http://ultratv.one:2095/live/b6oxQeKNTb/x0zne3Wp/115616.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -173,7 +173,7 @@ http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115616
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cMYSM6e.png" group-title="Sports",Astro SUPERSPORT 3
 
-http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115617
+http://ultratv.one:2095/live/b6oxQeKNTb/x0zne3Wp/115617.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -182,7 +182,7 @@ http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115617
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PlwrDwx.png" group-title="Sports",Astro SUPERSPORT 4
 
-http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115618
+http://ultratv.one:2095/live/b6oxQeKNTb/x0zne3Wp/115618.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/7806170b5ef2464530dcaedcbe3e9a42.jpg" group-title="Sports", Astro Arena 2 HD
