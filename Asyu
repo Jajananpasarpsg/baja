@@ -7,7 +7,7 @@
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
   
 #EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="https://www.eyetooth.design/wp-content/uploads/2020/04/live-event-stream-logo-design_colour-1.png" group-title="Live Event" , Live Event Stream
-https://pull.zygmsg.com/leisu/1118197320907974.m3u8?auth_key=1657129200-0-0-70d35d49db917d7186396ab2d8006b4b
+https://id5-play.score808tv.cc/hls/sport/c_111398/index.m3u8?token=MTQwOWY0MjcyNWFlYjQ2OWNkZmM4YWRmNGUwMmM1NTgxNjU3Mjk5NjAwMDAwa1ZqbkhRanFxTXhMMEI0&p2pRegionCode=indonesia&hycid=220706_GScKiFNjG9RU96Bg2foHl
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
