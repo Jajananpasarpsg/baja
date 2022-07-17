@@ -226,14 +226,14 @@ http://new-pro.tv:8080/mazen1/123456/116084
 http://new-pro.tv:8080/mazen1/123456/116085
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30785UJ.png" group-title="Sports",RMC Sport 1
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9vThdk9rQOI/YQ-Gajvgd8I/AAAAAAAAAEM/XI3p44TzWc0Vsl6xM1xGM0wIK94oCVOZgCLcBGAsYHQ/w1200-h630-p-k-no-nu/sports1.png" group-title="Sports",Unifi Sport 1
 
-https://iptv.lancartech.co.id:443/play/YA_uFsI2fRcHFzq_tUKHSUKw7m8QeCwh19AbdlpnlPA
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5Rh2s8k.png" group-title="Sports",RMC Sport 2
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-oVdSBMi3Jpg/YQ-HyjVcogI/AAAAAAAAAEU/w4Zoqo2tCJk7WtpvN7zNdmaoxkjqwBXNQCLcBGAsYHQ/s200/unifi2.png" group-title="Sports",Unifi Sport 2
 
-https://iptv.lancartech.co.id:443/play/YA_uFsI2fRcHFzq_tUKHSVn13qZAXIpaE2LNvyTSXZA
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
