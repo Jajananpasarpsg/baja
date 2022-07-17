@@ -8,7 +8,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://f053-194-233-88-110.ap.ngrok.io/drm/?decryptKey=XianZheng&cid=9211  
 #EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="https://www.eyetooth.design/wp-content/uploads/2020/04/live-event-stream-logo-design_colour-1.png" group-title="Live Event" , Live Event Stream
-https://etslive-2-vidio-com.akamaized.net/exp=1658076333~acl=/hls-p/ingest_9111_*/*~hmac=27be82e47d987c79bd996f59aabf701ab2591f61f9c7e3eaac5fb860e52c472f/hls-p/ingest_9111_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1658076333~acl=/hls-b/ingest_9111_*/*~hmac=fc1cd81f05fdd013012a501a95050a7b6e5f1f4ed7721534601921b3ef42457a/hls-b/ingest_9111_480p/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
