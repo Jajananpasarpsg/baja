@@ -159,25 +159,25 @@ http://new-pro.tv:8080/mazen1/123456/68486
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/X2WVnWr.png" group-title="Sports",Astro SUPERSPORT
-http://ultratv.one:2095/live/b6oxQeKNTb/x0zne3Wp/115615.m3u8
+https://cdn.pialatv.com/playlist/03a362f8432f9c98e7e0849d20281e66/e6d6d0f6a28264995179a20f51c5eab7/master.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AZQ0xgp.png" group-title="Sports",Astro SUPERSPORT 2
-http://ultratv.one:2095/live/b6oxQeKNTb/x0zne3Wp/115616.m3u8
+https://cdn.pialatv.com/playlist/03a362f8432f9c98e7e0849d20281e66/6a43a91677dee2759195e1c6167e06af/master.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cMYSM6e.png" group-title="Sports",Astro SUPERSPORT 3
-http://ultratv.one:2095/live/b6oxQeKNTb/x0zne3Wp/115617.m3u8
+https://cdn.pialatv.com/playlist/03a362f8432f9c98e7e0849d20281e66/261afa895b39e21c6d60b0c639df5ab0/master.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PlwrDwx.png" group-title="Sports",Astro SUPERSPORT 4
-http://ultratv.one:2095/live/b6oxQeKNTb/x0zne3Wp/115618.m3u8
+https://cdn.pialatv.com/playlist/03a362f8432f9c98e7e0849d20281e66/9b63c97dcc59ac287650ea42f00af843/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/7806170b5ef2464530dcaedcbe3e9a42.jpg" group-title="Sports", Astro Arena 2 HD
@@ -185,7 +185,7 @@ https://iptv.lancartech.co.id:443/play/8NlBEg7cxhhX3ZaUpwv82JljQnf355KOICvSiz1EL
   
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FieopQP.png" group-title="Sports",Astro SUPERSPORT 5
-https://cdn.pialatv.com/playlist/03a362f8432f9c98e7e0849d20281e66/ef4ed6774a24b143d59c3796e15f2228/master.m3u8?token=bGRza1YydFkyYTdDL1RTUXkzMitDUT09OjrjRpgkp225NTXquxSd6%2Bxt
+https://cdn.pialatv.com/playlist/03a362f8432f9c98e7e0849d20281e66/ef4ed6774a24b143d59c3796e15f2228/master.m3u8
 
 
 #EXTINF:-1 xui-id="89117" tvg-id="ChampionsTV1.id" tvg-name="Champion TV 1" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWdZL90iHxImdmCANmf_YKi3epr9zswQesjXzTtBkZPAK_2g8UCem2vmI4-fgwSzw3Q.png" group-title="Sports",Champion TV 1
