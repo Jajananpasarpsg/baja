@@ -145,65 +145,56 @@ https://liveanevia.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mp
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3openq8.png" group-title="Sports",TVRI Sport
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwMQowf-6NvKVR1nVaAyU5x6BCO_cIqjQJTQ&usqp=CAU" group-title="Sports", SkySport F1
 http://new-pro.tv:8080/mazen1/123456/68486
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/X2WVnWr.png" group-title="Sports",Astro SUPERSPORT
-
 http://ultratv.one:2095/live/b6oxQeKNTb/x0zne3Wp/115615.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AZQ0xgp.png" group-title="Sports",Astro SUPERSPORT 2
-
 http://ultratv.one:2095/live/b6oxQeKNTb/x0zne3Wp/115616.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cMYSM6e.png" group-title="Sports",Astro SUPERSPORT 3
-
 http://ultratv.one:2095/live/b6oxQeKNTb/x0zne3Wp/115617.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PlwrDwx.png" group-title="Sports",Astro SUPERSPORT 4
 http://ultratv.one:2095/live/b6oxQeKNTb/x0zne3Wp/115618.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/7806170b5ef2464530dcaedcbe3e9a42.jpg" group-title="Sports", Astro Arena 2 HD
-https://delivery.macan.network/stream/arena2/playlist.m3u8?token=rqvntc0&v=20200807
-
+https://iptv.lancartech.co.id:443/play/8NlBEg7cxhhX3ZaUpwv82JljQnf355KOICvSiz1EL0U
   
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FieopQP.png" group-title="Sports",Astro SUPERSPORT 5
 https://cdn.pialatv.com/playlist/03a362f8432f9c98e7e0849d20281e66/ef4ed6774a24b143d59c3796e15f2228/master.m3u8?token=Y0paUFlQbjd0cmYwaisycjlhY1kyUT09OjqgVL8M8QJOB%2Bxlisuorf%2FV&token=UnFEcnZJa1BJVGh4S204d0krcUpndz09OjoeEEr6%2F80K%2F6hAcHeZaScy
 
 
- 
+#EXTINF:-1 xui-id="89117" tvg-id="ChampionsTV1.id" tvg-name="Champion TV 1" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWdZL90iHxImdmCANmf_YKi3epr9zswQesjXzTtBkZPAK_2g8UCem2vmI4-fgwSzw3Q.png" group-title="Sports",Champion TV 1
+https://iptv.lancartech.co.id:443/play/8NlBEg7cxhhX3ZaUpwv82NZTpsDs4e4-O-bp_gHvgEo
 
-#EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="SuperSport Premier League" tvg-logo="https://i.postimg.cc/ncqQvY1M/supersport-premier-league.png" group-title="Sports",SuperSport Premier League
+#EXTINF:-1 xui-id="89118" tvg-id="ChampionsTV2.id" tvg-name="Champion TV 2" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWfXklQ4MT8lBpWf2y3cIYW7rGEmzNJI5x7ruM2bK67HnK5_j9ankbThWOQ8EkbGwc0.png" group-title="Sports",Champion TV 2
+https://iptv.lancartech.co.id:443/play/8NlBEg7cxhhX3ZaUpwv82FxjIej_7qZ9-kafHVCl5VU
 
-http://iptv12k.com:35461/8022022301/468985/5671
+#EXTINF:-1 xui-id="89119" tvg-id="ChampionsTV3.id" tvg-name="Champion TV 3" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWd97x8yXqaXN76PCzuMmAaTYrXuCTKnXnf37yOHqFomGfcf_IkxwmtbPoXd6FHbGmQ.png" group-title="Sports",Champion TV 3
+https://iptv.lancartech.co.id:443/play/8NlBEg7cxhhX3ZaUpwv82NeWPRumfOxkjPXOvmbuSes
 
-
-#EXTINF:-1 tvg-id="supersportmaximo1.za" tvg-name="SuperSport Maximo HD AF" tvg-logo="https://i.postimg.cc/B6vvk2D5/supersport-maximo-1.png" group-title="Sports",SuperSport Maximo 1
-
-http://iptv12k.com:35461/8022022301/468985/5668
+#EXTINF:-1 xui-id="90269" tvg-id="ChampionsTV4.id" tvg-name="Champion TV 4" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWeAvd1L1J_MFB3qSaFy8aWWBu78MkMYlPDhy6UONlGMXgknoXBQenX9Pp-XP9-b7vw.png" group-title="Sports",Champion TV 4
+https://iptv.lancartech.co.id:443/play/8NlBEg7cxhhX3ZaUpwv82JBPmTirToihFp9Qi8AAW18
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wA3DieO.png" group-title="Sports",SkySport News
@@ -282,8 +273,6 @@ https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18355963_ico.png?ts=1643984665" group-title="Sports", SPO TV 2
 https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-
-
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
