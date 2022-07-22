@@ -159,25 +159,25 @@ http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/127990.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/X2WVnWr.png" group-title="Sports",Astro SUPERSPORT
-http://139.99.56.106:2082/sakinah1/sakinah1/8416
+http://139.99.56.106:2082/sakinah1/sakinah1/8548
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AZQ0xgp.png" group-title="Sports",Astro SUPERSPORT 2
-http://139.99.56.106:2082/sakinah1/sakinah1/8417
+http://139.99.56.106:2082/sakinah1/sakinah1/8549
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cMYSM6e.png" group-title="Sports",Astro SUPERSPORT 3
-http://139.99.56.106:2082/sakinah1/sakinah1/8418 
+http://139.99.56.106:2082/sakinah1/sakinah1/8550
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PlwrDwx.png" group-title="Sports",Astro SUPERSPORT 4
-http://139.99.56.106:2082/sakinah1/sakinah1/8419 
+http://139.99.56.106:2082/sakinah1/sakinah1/8551 
 
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/7806170b5ef2464530dcaedcbe3e9a42.jpg" group-title="Sports", Astro Arena 2 HD
