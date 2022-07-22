@@ -188,17 +188,17 @@ https://iptv.lancartech.co.id:443/play/8NlBEg7cxhhX3ZaUpwv82JljQnf355KOICvSiz1EL
 https://cdn.pialatv.com/playlist/03a362f8432f9c98e7e0849d20281e66/ef4ed6774a24b143d59c3796e15f2228/master.m3u8?token=T3ovRnNraXAxbTA3UUZOeW5DaHM0RFFvRU11aWpVK3F2NDdKd1kxYnlMMDE5cFVtNlNSZ1V6ejVOTFFHa1F3Zzo6nI6B4Sy3I%2BRme2q9eHEt8w%3D%3D
 
 
-#EXTINF:-1 xui-id="89117" tvg-id="ChampionsTV1.id" tvg-name="Champion TV 1" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWdZL90iHxImdmCANmf_YKi3epr9zswQesjXzTtBkZPAK_2g8UCem2vmI4-fgwSzw3Q.png" group-title="Sports",Champion TV 1
-https://iptv.lancartech.co.id:443/play/8NlBEg7cxhhX3ZaUpwv82NZTpsDs4e4-O-bp_gHvgEo
+#EXTINF:-1 xui-id="89117" tvg-id="ChampionsTV1.id" tvg-name="Eurosport 1" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWdZL90iHxImdmCANmf_YKi3epr9zswQesjXzTtBkZPAK_2g8UCem2vmI4-fgwSzw3Q.png" group-title="Sports",Champion TV 1
+http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/128362.m3u8
 
-#EXTINF:-1 xui-id="89118" tvg-id="ChampionsTV2.id" tvg-name="Champion TV 2" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWfXklQ4MT8lBpWf2y3cIYW7rGEmzNJI5x7ruM2bK67HnK5_j9ankbThWOQ8EkbGwc0.png" group-title="Sports",Champion TV 2
-https://iptv.lancartech.co.id:443/play/8NlBEg7cxhhX3ZaUpwv82FxjIej_7qZ9-kafHVCl5VU
+#EXTINF:-1 xui-id="89118" tvg-id="ChampionsTV2.id" tvg-name="Eurosport 2" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWfXklQ4MT8lBpWf2y3cIYW7rGEmzNJI5x7ruM2bK67HnK5_j9ankbThWOQ8EkbGwc0.png" group-title="Sports",Champion TV 2
+http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/128363.m3u8
 
-#EXTINF:-1 xui-id="89119" tvg-id="ChampionsTV3.id" tvg-name="Champion TV 3" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWd97x8yXqaXN76PCzuMmAaTYrXuCTKnXnf37yOHqFomGfcf_IkxwmtbPoXd6FHbGmQ.png" group-title="Sports",Champion TV 3
-https://iptv.lancartech.co.id:443/play/8NlBEg7cxhhX3ZaUpwv82NeWPRumfOxkjPXOvmbuSes
+#EXTINF:-1 xui-id="89119" tvg-id="ChampionsTV3.id" tvg-name="Premiere Sport 1" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWd97x8yXqaXN76PCzuMmAaTYrXuCTKnXnf37yOHqFomGfcf_IkxwmtbPoXd6FHbGmQ.png" group-title="Sports",Champion TV 3
+http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/128364.m3u8
 
-#EXTINF:-1 xui-id="90269" tvg-id="ChampionsTV4.id" tvg-name="Champion TV 4" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWeAvd1L1J_MFB3qSaFy8aWWBu78MkMYlPDhy6UONlGMXgknoXBQenX9Pp-XP9-b7vw.png" group-title="Sports",Champion TV 4
-https://iptv.lancartech.co.id:443/play/8NlBEg7cxhhX3ZaUpwv82JBPmTirToihFp9Qi8AAW18
+#EXTINF:-1 xui-id="90269" tvg-id="ChampionsTV4.id" tvg-name="Premiere Sport 2" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWeAvd1L1J_MFB3qSaFy8aWWBu78MkMYlPDhy6UONlGMXgknoXBQenX9Pp-XP9-b7vw.png" group-title="Sports",Champion TV 4
+http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/128365.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://platinumxmedia.xyz:8080/images/fd0c145b099e7b306d2a2abae6e0e8e8.png" group-title="Sports",SkySport Premiere League
