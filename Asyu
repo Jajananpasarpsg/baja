@@ -117,7 +117,7 @@ https://liveanevia.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/97/Soccer_Channel.png" group-title="Sports",Soccer Channel
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/97/Soccer_Channel.png" group-title="Sports", Utama Soccer Channel
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -132,17 +132,17 @@ http://iptvid.my.id/hmm/useetl2.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://static.mncnow.id/images/channel/ae834449/c8f5.png" group-title="Sports", MNC SPORT 1
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://static.mncnow.id/images/channel/ae834449/c8f5.png" group-title="Sports", Utama MNC SPORT 1
 https://liveanevia.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://static.mncnow.id/images/channel/516c7676/3afe.png" group-title="Sports", MNC SPORT 2
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://static.mncnow.id/images/channel/516c7676/3afe.png" group-title="Sports", Utama MNC SPORT 2
 https://liveanevia.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3openq8.png" group-title="Sports",TVRI Sport
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3openq8.png" group-title="Sports",Utama TVRI Sport
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
 
@@ -188,16 +188,16 @@ https://iptv.lancartech.co.id:443/play/8NlBEg7cxhhX3ZaUpwv82JljQnf355KOICvSiz1EL
 https://cdn.pialatv.com/playlist/03a362f8432f9c98e7e0849d20281e66/ef4ed6774a24b143d59c3796e15f2228/master.m3u8?token=T3ovRnNraXAxbTA3UUZOeW5DaHM0RFFvRU11aWpVK3F2NDdKd1kxYnlMMDE5cFVtNlNSZ1V6ejVOTFFHa1F3Zzo6nI6B4Sy3I%2BRme2q9eHEt8w%3D%3D
 
 
-#EXTINF:-1 xui-id="89117" tvg-id="ChampionsTV1.id" tvg-name="Eurosport 1" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWdZL90iHxImdmCANmf_YKi3epr9zswQesjXzTtBkZPAK_2g8UCem2vmI4-fgwSzw3Q.png" group-title="Sports",Champion TV 1
+#EXTINF:-1 xui-id="89117" tvg-id="ChampionsTV1.id" tvg-name="Eurosport 1" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWdZL90iHxImdmCANmf_YKi3epr9zswQesjXzTtBkZPAK_2g8UCem2vmI4-fgwSzw3Q.png" group-title="Sports",Eurosport 1
 http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/128362.m3u8
 
-#EXTINF:-1 xui-id="89118" tvg-id="ChampionsTV2.id" tvg-name="Eurosport 2" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWfXklQ4MT8lBpWf2y3cIYW7rGEmzNJI5x7ruM2bK67HnK5_j9ankbThWOQ8EkbGwc0.png" group-title="Sports",Champion TV 2
+#EXTINF:-1 xui-id="89118" tvg-id="ChampionsTV2.id" tvg-name="Eurosport 2" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWfXklQ4MT8lBpWf2y3cIYW7rGEmzNJI5x7ruM2bK67HnK5_j9ankbThWOQ8EkbGwc0.png" group-title="Sports",Eurosport 2
 http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/128363.m3u8
 
-#EXTINF:-1 xui-id="89119" tvg-id="ChampionsTV3.id" tvg-name="Premiere Sport 1" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWd97x8yXqaXN76PCzuMmAaTYrXuCTKnXnf37yOHqFomGfcf_IkxwmtbPoXd6FHbGmQ.png" group-title="Sports",Champion TV 3
+#EXTINF:-1 xui-id="89119" tvg-id="ChampionsTV3.id" tvg-name="Premiere Sport 1" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWd97x8yXqaXN76PCzuMmAaTYrXuCTKnXnf37yOHqFomGfcf_IkxwmtbPoXd6FHbGmQ.png" group-title="Sports",Premiersport 1
 http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/128364.m3u8
 
-#EXTINF:-1 xui-id="90269" tvg-id="ChampionsTV4.id" tvg-name="Premiere Sport 2" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWeAvd1L1J_MFB3qSaFy8aWWBu78MkMYlPDhy6UONlGMXgknoXBQenX9Pp-XP9-b7vw.png" group-title="Sports",Champion TV 4
+#EXTINF:-1 xui-id="90269" tvg-id="ChampionsTV4.id" tvg-name="Premiere Sport 2" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWeAvd1L1J_MFB3qSaFy8aWWBu78MkMYlPDhy6UONlGMXgknoXBQenX9Pp-XP9-b7vw.png" group-title="Sports",Premiersport 2
 http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/128365.m3u8
 
 
@@ -260,22 +260,22 @@ http://octopustv.vip:80/ismail/121314/182895
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/lc4tomt-krYAlrm5H57lcqLyOCM9yyVd1NLECDNFHCrCxgWhE8BHgyJ0GUa0onEslCJW_fOMvw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",beIN Sport 1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/lc4tomt-krYAlrm5H57lcqLyOCM9yyVd1NLECDNFHCrCxgWhE8BHgyJ0GUa0onEslCJW_fOMvw=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",Utama beIN Sport 1
 https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRKsX8AZ9BnjcNQPaWE_zdWa7Qbd9-BnuKufpDIbtbaT3gKMt3zNFDRwLEt6fhDVec3ZQ&usqp=CAU" group-title="Sports",beIN Sport 3
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRKsX8AZ9BnjcNQPaWE_zdWa7Qbd9-BnuKufpDIbtbaT3gKMt3zNFDRwLEt6fhDVec3ZQ&usqp=CAU" group-title="Sports",Utama beIN Sport 3
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18355959_ico.png?ts=1643984595" group-title="Sports", SPO TV 1
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18355959_ico.png?ts=1643984595" group-title="Sports",Utama SPO TV 1
 https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18355963_ico.png?ts=1643984665" group-title="Sports", SPO TV 2
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18355963_ico.png?ts=1643984665" group-title="Sports",Utama SPO TV 2
 https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 
@@ -286,7 +286,7 @@ http://66.70.176.103:8081/USA%7CNBATV/USA%7CNBATV/chunks.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSM18HdFYtP63BQtm_6fEZ_V_v38JD2KbFu4XA_=s88-c-k-c0x00ffffff-no-rj" group-title="Sports",Fight Sports
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSM18HdFYtP63BQtm_6fEZ_V_v38JD2KbFu4XA_=s88-c-k-c0x00ffffff-no-rj" group-title="Sports",Utama Fight Sports
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
