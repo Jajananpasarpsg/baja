@@ -160,8 +160,8 @@ http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/127990.m3u8
 
 
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cMYSM6e.png" group-title="Sports",Astro SUPERSPORT 3
-https://cdn.pialatv.com/playlist/03a362f8432f9c98e7e0849d20281e66/261afa895b39e21c6d60b0c639df5ab0/master.m3u8?token=UEFDbmhTeFhFWC9BNW9GSTRkV1BnVUs3MnBVbTZWM2hJLzZ5dFBpUHIyZXJHZ2RRUlZST0VmMVJzZFVPdXVPWTo6mAbDoPtWbEyIgcTbV0DsZw%3D%3D
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cMYSM6e.png" group-title="Sports",Sport TV 1
+http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/68990.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/7806170b5ef2464530dcaedcbe3e9a42.jpg" group-title="Sports", Astro Arena 2 HD
@@ -169,16 +169,16 @@ http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/296001
 
 
 
-#EXTINF:-1 xui-id="89117" tvg-id="ChampionsTV1.id" tvg-name="Eurosport 1" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWdZL90iHxImdmCANmf_YKi3epr9zswQesjXzTtBkZPAK_2g8UCem2vmI4-fgwSzw3Q.png" group-title="Sports",Eurosport 1
+#EXTINF:-1 xui-id="89117" tvg-id="Eurosport" tvg-name="Eurosport 1" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWdZL90iHxImdmCANmf_YKi3epr9zswQesjXzTtBkZPAK_2g8UCem2vmI4-fgwSzw3Q.png" group-title="Sports",Eurosport 1
 http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/128362.m3u8
 
-#EXTINF:-1 xui-id="89118" tvg-id="ChampionsTV2.id" tvg-name="Eurosport 2" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWfXklQ4MT8lBpWf2y3cIYW7rGEmzNJI5x7ruM2bK67HnK5_j9ankbThWOQ8EkbGwc0.png" group-title="Sports",Eurosport 2
+#EXTINF:-1 xui-id="89118" tvg-id="Eurosport2" tvg-name="Eurosport 2" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWfXklQ4MT8lBpWf2y3cIYW7rGEmzNJI5x7ruM2bK67HnK5_j9ankbThWOQ8EkbGwc0.png" group-title="Sports",Eurosport 2
 http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/128363.m3u8
 
-#EXTINF:-1 xui-id="89119" tvg-id="ChampionsTV3.id" tvg-name="Premiere Sport 1" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWd97x8yXqaXN76PCzuMmAaTYrXuCTKnXnf37yOHqFomGfcf_IkxwmtbPoXd6FHbGmQ.png" group-title="Sports",Premiersport 1
+#EXTINF:-1 xui-id="89119" tvg-id="" tvg-name="Premiere Sport 1" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWd97x8yXqaXN76PCzuMmAaTYrXuCTKnXnf37yOHqFomGfcf_IkxwmtbPoXd6FHbGmQ.png" group-title="Sports",Premiersport 1
 http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/128364.m3u8
 
-#EXTINF:-1 xui-id="90269" tvg-id="ChampionsTV4.id" tvg-name="Premiere Sport 2" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWeAvd1L1J_MFB3qSaFy8aWWBu78MkMYlPDhy6UONlGMXgknoXBQenX9Pp-XP9-b7vw.png" group-title="Sports",Premiersport 2
+#EXTINF:-1 xui-id="90269" tvg-id="" tvg-name="Premiere Sport 2" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWeAvd1L1J_MFB3qSaFy8aWWBu78MkMYlPDhy6UONlGMXgknoXBQenX9Pp-XP9-b7vw.png" group-title="Sports",Premiersport 2
 http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/128365.m3u8
 
 
