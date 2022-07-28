@@ -176,17 +176,17 @@ https://papipapipums.herokuapp.com/index.php?id=premium125
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="Sports",MY: Astro SuperSport 4
 https://papipapipums.herokuapp.com/index.php?id=premium126
 
-#EXTINF:-1 xui-id="89117" tvg-id="Eurosport" tvg-name="Eurosport 1" tvg-logo="https://ewsat.com/img/EUROSPORT_1.png" group-title="Sports",Eurosport 1
-http://2ns9iqxa.russtv.net/iptv/EL873UXD746P96/2560/index.m3u8
+#EXTINF:-1 xui-id="89117" tvg-id="Eurosport" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vsurrv1433781133.png" group-title="Sports",Arena Sport 1
+http://2ns9iqxa.russtv.net/iptv/EL873UXD746P96/2550/index.m3u8
 
-#EXTINF:-1 xui-id="89118" tvg-id="Eurosport2" tvg-name="Eurosport 2" tvg-logo="https://logovectorseek.com/wp-content/uploads/2019/09/eurosport-2-logo-vector.png" group-title="Sports",Eurosport 2
-http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/128363.m3u8
+#EXTINF:-1 xui-id="89118" tvg-id="Eurosport2" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vrqsrx1433781528.png" group-title="Sports",Arena Sport 2
+http://2ns9iqxa.russtv.net/iptv/EL873UXD746P96/7330/index.m3u8
 
-#EXTINF:-1 xui-id="89119" tvg-id="" tvg-name="Premiere Sport 1" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWd97x8yXqaXN76PCzuMmAaTYrXuCTKnXnf37yOHqFomGfcf_IkxwmtbPoXd6FHbGmQ.png" group-title="Sports",Premiersport 1
-http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/128364.m3u8
+#EXTINF:-1 xui-id="89119" tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/uuqqxq1433781899.png" group-title="Sports",Arena Sport 3
+http://2ns9iqxa.russtv.net/iptv/EL873UXD746P96/7331/index.m3u8
 
-#EXTINF:-1 xui-id="90269" tvg-id="" tvg-name="Premiere Sport 2" tvg-logo="https://iptv.lancartech.co.id:443/images/3hVW1FoE_poFMStFObBx4dM9Wu4tP0QjbY0gBu_ozWeAvd1L1J_MFB3qSaFy8aWWBu78MkMYlPDhy6UONlGMXgknoXBQenX9Pp-XP9-b7vw.png" group-title="Sports",Premiersport 2
-http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/128365.m3u8
+#EXTINF:-1 xui-id="90269" tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Eurosport_1_UK.png" group-title="Sports",Eurosport 1
+http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://platinumxmedia.xyz:8080/images/fd0c145b099e7b306d2a2abae6e0e8e8.png" group-title="Sports",SkySport Premiere League
