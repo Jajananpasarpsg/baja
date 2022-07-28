@@ -214,15 +214,15 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
 
 #EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/6/6550.1489223922.png" group-title="Sports",Fox Sport 501
-http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/141764.m3u8
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/240592
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9dxQL7c146yndHlbY91phYOpXnTOIwq1NhcEl6NXHQfefF7o6LdJKDI&s=10" group-title="Sports",Fox Sport 502
-http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/141763.m3u8
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/240593
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Fox-sports-3-colour.png/revision/latest/scale-to-width-down/200?cb=20170407121736" group-title="Sports",Fox Sport 503
-http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/141762.m3u8
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/240594
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
