@@ -175,9 +175,10 @@ https://daddylive.herokuapp.com/index.php?id=premium124
 https://daddylive.herokuapp.com/index.php?id=premium125
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="Sports",Astro SuperSport 4
 https://daddylive.herokuapp.com/index.php?id=premium126
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 5" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroSuperSport5.png" group-title="Sports",Astro Supersport 5
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5059
+#EXTINF:-1 tvg-id="" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroSuperSport5.png" group-title="Sports",Astro Supersport 5
 https://teschmalau.herokuapp.com/dash-wv/linear/5059/default_primary.mpd
 
 
