@@ -168,13 +168,19 @@ http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/68990.m3u8
 http://quality-restream.com:8080/i4stream/d78b24fc9a18/287793
 
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="Sports",MY: Astro SuperSport 1
-https://papipapipums.herokuapp.com/index.php?id=premium123
+https://daddylive.herokuapp.com/index.php?id=premium123
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="Sports",MY: Astro SuperSport 2
-https://papipapipums.herokuapp.com/index.php?id=premium124
+https://daddylive.herokuapp.com/index.php?id=premium124
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="Sports",MY: Astro SuperSport 3
-https://papipapipums.herokuapp.com/index.php?id=premium125
+https://daddylive.herokuapp.com/index.php?id=premium125
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="Sports",MY: Astro SuperSport 4
-https://papipapipums.herokuapp.com/index.php?id=premium126
+https://daddylive.herokuapp.com/index.php?id=premium126
+#EXTINF: -1 tvg-id="AstroSupersport5" group-title="Sport" ch-number="815" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroSuperSport5.png",ASTRO SUPER SPORT 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5059
+https://teschmalau.herokuapp.com/dash-wv/linear/5059/default_primary.mpd
+
+
 
 #EXTINF:-1 xui-id="89117" tvg-id="Eurosport" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vsurrv1433781133.png" group-title="Sports",Arena Sport 1
 http://2ns9iqxa.russtv.net/iptv/EL873UXD746P96/2550/index.m3u8
