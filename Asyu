@@ -8,7 +8,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://f053-194-233-88-110.ap.ngrok.io/drm/?decryptKey=XianZheng&cid=9211  
 #EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="https://www.eyetooth.design/wp-content/uploads/2020/04/live-event-stream-logo-design_colour-1.png" group-title="Live Event" , Live Event Stream
-https://etslive-2-vidio-com.akamaized.net/exp=1659286809~acl=/hls-p/ingest_6686_*/*~hmac=3f3043fb1531b9eb32ebc78b38e3646441f90a41bef4c25b8b3793befa179fb2/hls-p/ingest_6686_720p/index.m3u8
+http://kunyak.my.id/underground-iptv-team/indosiar.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://f053-194-233-88-110.ap.ngrok.io/drm/?decryptKey=XianZheng&cid=9211  
