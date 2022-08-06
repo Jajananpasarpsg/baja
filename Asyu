@@ -225,7 +225,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/x5ja5w1659624783.png" group-title="Sports",Super Premier League
-https://segumpalnenen.herokuapp.com/index.m3u8?id=superpremier
+https://b58d7f1ccd70.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.100601066068.channel.1c91MQvZApnW.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/6/6550.1489223922.png" group-title="Sports",Fox Sport 507
