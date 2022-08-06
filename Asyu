@@ -8,7 +8,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://f053-194-233-88-110.ap.ngrok.io/drm/?decryptKey=XianZheng&cid=9211  
 #EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="https://www.eyetooth.design/wp-content/uploads/2020/04/live-event-stream-logo-design_colour-1.png" group-title="Live Event" , Live Event Stream
-https://id4-play.score808tv.cc/hls/sport/c_117757/index.m3u8?token=M2M1YTNjMjBhYjk2N2IzZmE3NDBjMTJmZDdhOTVjODYxNjU5ODE3ODAwMDAwemJhUDdnZm93bExkN2RE&p2pRegionCode=indonesia&hycid=220706_GScKiFNjG9RU96Bg2foHl
+http://kunyak.my.id/underground-iptv-team/sctv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://f053-194-233-88-110.ap.ngrok.io/drm/?decryptKey=XianZheng&cid=9211  
