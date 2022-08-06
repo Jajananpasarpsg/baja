@@ -209,15 +209,15 @@ http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/127985.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="Sports",BT Sport 1
-http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/128229.m3u8
+https://segumpalnenen.herokuapp.com/index.m3u8?id=bbtsp1
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sIIFREX.png" group-title="Sports",BT Sport 2
-http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/128230.m3u8
+https://segumpalnenen.herokuapp.com/index.m3u8?id=bbtsp2
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8IzsrMb.png" group-title="Sports",BT Sport 3
-http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/128231.m3u8
+https://segumpalnenen.herokuapp.com/index.m3u8?id=bbtsp3
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9vThdk9rQOI/YQ-Gajvgd8I/AAAAAAAAAEM/XI3p44TzWc0Vsl6xM1xGM0wIK94oCVOZgCLcBGAsYHQ/w1200-h630-p-k-no-nu/sports1.png" group-title="Sports",Unifi Sport 1
