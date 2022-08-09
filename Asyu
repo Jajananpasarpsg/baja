@@ -163,7 +163,7 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8?cp=en
 
 
 #EXTINF:0 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwMQowf-6NvKVR1nVaAyU5x6BCO_cIqjQJTQ&usqp=CAU" group-title="Sports", SkySport F1
-https://bnf55.ru.com/cdn/premium49/tracks-v1a1/mono.m3u8|referer=https://widevine.licenses4.me/
+https://bnf55.ru.com/cdn/premium60/tracks-v1a1/mono.m3u8|referer=https://widevine.licenses4.me/
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv2hd.png" group-title="Sports",Sport TV 2
@@ -171,7 +171,7 @@ https://bnf55.ru.com/cdn/premium74/tracks-v1a1/mono.m3u8|referer=https://widevin
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-TYA71ryPkNA/XX5k570rpPI/AAAAAAAAA1U/3Di6rEiQpjwD3C73Qme58m45n-Vv5dMEQCLcBGAsYHQ/s1600/Sport%2BTV%2B1.png" group-title="Sports",Sport TV 1
-http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/68990.m3u8
+https://bnf55.ru.com/cdn/premium49/tracks-v1a1/mono.m3u8|referer=https://widevine.licenses4.me/
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dravie.host/license.php?id=a35c43ff90d667ba1285ad0ae34ae810&key=99191e99138dc6aca5ed5febe3a817a4
@@ -211,15 +211,15 @@ https://bnf55.ru.com/cdn/premium130/tracks-v1a1/mono.m3u8|referer=https://widevi
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="Sports",BT Sport 1
-http://2mtv.net:8080/mahmoudaswa/26887329/2245
+https://bnf55.ru.com/cdn/premium31/tracks-v1a1/mono.m3u8|referer=https://widevine.licenses4.me/
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sIIFREX.png" group-title="Sports",BT Sport 2
-http://2mtv.net:8080/mahmoudaswa/26887329/2244
+https://bnf55.ru.com/cdn/premium32/tracks-v1a1/mono.m3u8|referer=https://widevine.licenses4.me/
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8IzsrMb.png" group-title="Sports",BT Sport 3
-http://2mtv.net:8080/mahmoudaswa/26887329/2243
+https://bnf55.ru.com/cdn/premium33/tracks-v1a1/mono.m3u8|referer=https://widevine.licenses4.me/
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9vThdk9rQOI/YQ-Gajvgd8I/AAAAAAAAAEM/XI3p44TzWc0Vsl6xM1xGM0wIK94oCVOZgCLcBGAsYHQ/w1200-h630-p-k-no-nu/sports1.png" group-title="Sports",Unifi Sport 1
