@@ -173,8 +173,10 @@ http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/68993.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-TYA71ryPkNA/XX5k570rpPI/AAAAAAAAA1U/3Di6rEiQpjwD3C73Qme58m45n-Vv5dMEQCLcBGAsYHQ/s1600/Sport%2BTV%2B1.png" group-title="Sports",Sport TV 1
 http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/68990.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Arena 2" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/7806170b5ef2464530dcaedcbe3e9a42.jpg" group-title="Sports",MY: Astro Arena 2
-http://quality-restream.com:8080/i4stream/d78b24fc9a18/287793
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dravie.host/license.php?id=113d6e58ea7e223e3fb4a9af3e927010&key=dc86f5d82e5dfaa0fbb22d220e023b7c
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png" tvg-id="EPG" group-title="Sports", ASSP5
+https://cdn.dravie.host/5057/default_ott.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="Sports",Astro SuperSport 1
 https://daddylive.herokuapp.com/index.php?id=premium123
