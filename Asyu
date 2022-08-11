@@ -163,8 +163,7 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8?cp=en
 
 
 #EXTINF:0 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwMQowf-6NvKVR1nVaAyU5x6BCO_cIqjQJTQ&usqp=CAU" group-title="Sports", SkySport F1
-https://vhls.ru.com/cdn/premium49/playlist.m3u8
-
+http://clientportal.link:80/1q3uBYeAyc3286/r4s7RB4812/3603
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv2hd.png" group-title="Sports",Sport TV 2
 https://bnf55.ru.com/cdn/premium74/tracks-v1a1/mono.m3u8|referer=https://widevine.licenses4.me/
@@ -207,19 +206,19 @@ http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://platinumxmedia.xyz:8080/images/fd0c145b099e7b306d2a2abae6e0e8e8.png" group-title="Sports",SkySport Premiere League
-https://bnf55.ru.com/cdn/premium130/tracks-v1a1/mono.m3u8|referer=https://widevine.licenses4.me/
+http://clientportal.link:80/1q3uBYeAyc3286/r4s7RB4812/14742
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="Sports",BT Sport 1
-https://bnf55.ru.com/cdn/premium31/tracks-v1a1/mono.m3u8|referer=https://widevine.licenses4.me/
+http://clientportal.link:80/1q3uBYeAyc3286/r4s7RB4812/1991
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sIIFREX.png" group-title="Sports",BT Sport 2
-https://bnf55.ru.com/cdn/premium32/tracks-v1a1/mono.m3u8|referer=https://widevine.licenses4.me/
+http://clientportal.link:80/1q3uBYeAyc3286/r4s7RB4812/1992
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8IzsrMb.png" group-title="Sports",BT Sport 3
-https://bnf55.ru.com/cdn/premium33/tracks-v1a1/mono.m3u8|referer=https://widevine.licenses4.me/
+http://clientportal.link:80/1q3uBYeAyc3286/r4s7RB4812/14903
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9vThdk9rQOI/YQ-Gajvgd8I/AAAAAAAAAEM/XI3p44TzWc0Vsl6xM1xGM0wIK94oCVOZgCLcBGAsYHQ/w1200-h630-p-k-no-nu/sports1.png" group-title="Sports",Unifi Sport 1
