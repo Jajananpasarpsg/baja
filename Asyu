@@ -213,23 +213,16 @@ http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://platinumxmedia.xyz:8080/images/fd0c145b099e7b306d2a2abae6e0e8e8.png" group-title="Sports",SkySport Premiere League
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://ad2017.vhls.ru.com/cdn/premium130/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
-
+https://ad2017.vhls.ru.com/cdn/premium130/index.m3u8|referer=https://streamservicehd.click/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="Sports",BT Sport 1
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://ad2017.vhls.ru.com/cdn/premium31/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
-
+https://ad2017.vhls.ru.com/cdn/premium31/index.m3u8|referer=https://streamservicehd.click/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sIIFREX.png" group-title="Sports",BT Sport 2
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://ad2017.vhls.ru.com/cdn/premium32/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
-
+https://ad2017.vhls.ru.com/cdn/premium32/index.m3u8|referer=https://streamservicehd.click/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8IzsrMb.png" group-title="Sports",BT Sport 3
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://ad2017.vhls.ru.com/cdn/premium33/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+https://ad2017.vhls.ru.com/cdn/premium33/index.m3u8|referer=https://streamservicehd.click/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9vThdk9rQOI/YQ-Gajvgd8I/AAAAAAAAAEM/XI3p44TzWc0Vsl6xM1xGM0wIK94oCVOZgCLcBGAsYHQ/w1200-h630-p-k-no-nu/sports1.png" group-title="Sports",Unifi Sport 1
