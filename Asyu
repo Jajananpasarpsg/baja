@@ -187,16 +187,16 @@ http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="Sports",Astro SuperSport 1
-https://sfdsd.globalweb.ru.com/cdn/premium123/mono.m3u8|referer=https://widevine.licenses4.me/
+https://ad2017.vhls.ru.com/cdn/premium123/tracks-v1a1/mono.m3u8|referer=https://streamservicehd.click/|User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="Sports",Astro SuperSport 2
-https://sfdsd.globalweb.ru.com/cdn/premium124/mono.m3u8|referer=https://widevine.licenses4.me/
+https://ad2017.vhls.ru.com/cdn/premium124/tracks-v1a1/mono.m3u8|referer=https://streamservicehd.click/|User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="Sports",Astro SuperSport 3
-https://sfdsd.globalweb.ru.com/cdn/premium125/mono.m3u8|referer=https://widevine.licenses4.me/
+https://ad2017.vhls.ru.com/cdn/premium125/tracks-v1a1/mono.m3u8|referer=https://streamservicehd.click/|User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="Sports",Astro SuperSport 4
-https://sfdsd.globalweb.ru.com/cdn/premium126/mono.m3u8|referer=https://widevine.licenses4.me/
+https://ad2017.vhls.ru.com/cdn/premium126/tracks-v1a1/mono.m3u8|referer=https://streamservicehd.click/|User-Agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png" tvg-id="EPG" group-title="Sports", ASSP5
-https://best.globalweb.ru.com/cdn/premium43/mono.m3u8|referer=https://widevine.licenses4.me/
+https://ad2017.vhls.ru.com/cdn/premium43/tracks-v1a1/mono.m3u8|referer=https://streamservicehd.click/|User-Agent=Mozilla/5.0
 
 
 #EXTINF:-1 xui-id="89117" tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vsurrv1433781133.png" group-title="Sports",Arena Sport 1
@@ -213,16 +213,16 @@ http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://platinumxmedia.xyz:8080/images/fd0c145b099e7b306d2a2abae6e0e8e8.png" group-title="Sports",SkySport Premiere League
-https://ad2017.vhls.ru.com/cdn/premium130/index.m3u8|referer=https://streamservicehd.click/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+https://ad2017.vhls.ru.com/cdn/premium130/tracks-v1a1/mono.m3u8|referer=https://streamservicehd.click/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="Sports",BT Sport 1
-https://ad2017.vhls.ru.com/cdn/premium31/index.m3u8|referer=https://streamservicehd.click/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+https://ad2017.vhls.ru.com/cdn/premium31/tracks-v1a1/mono.m3u8|referer=https://streamservicehd.click/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sIIFREX.png" group-title="Sports",BT Sport 2
-https://ad2017.vhls.ru.com/cdn/premium32/index.m3u8|referer=https://streamservicehd.click/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+ (Wind NT https://ad2017.vhls.ru.com/cdn/premium32/tracks-v1a1/mono.m3u8|referer=https://streamservicehd.click/|User-Agent=Mozilla/5.0ows10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8IzsrMb.png" group-title="Sports",BT Sport 3
-https://ad2017.vhls.ru.com/cdn/premium33/index.m3u8|referer=https://streamservicehd.click/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+https://ad2017.vhls.ru.com/cdn/premium33/tracks-v1a1/mono.m3u8|referer=https://streamservicehd.click/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9vThdk9rQOI/YQ-Gajvgd8I/AAAAAAAAAEM/XI3p44TzWc0Vsl6xM1xGM0wIK94oCVOZgCLcBGAsYHQ/w1200-h630-p-k-no-nu/sports1.png" group-title="Sports",Unifi Sport 1
@@ -230,7 +230,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/x5ja5w1659624783.png" group-title="Sports",Super Premier League
-https://ad2017.vhls.ru.com/cdn/premium414/index.m3u8|referer=https://streamservicehd.click/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+https://ad2017.vhls.ru.com/cdn/premium414/tracks-v1a1/mono.m3u8|referer=https://streamservicehd.click/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 
 
 #EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/6/6550.1489223922.png" group-title="Sports",Fox Sport 507
