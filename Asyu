@@ -200,13 +200,13 @@ https://ad2017.vhls.ru.com/cdnus/premium43/index.m3u8|referer=https://streamserv
 
 
 #EXTINF:-1 xui-id="89117" tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vsurrv1433781133.png" group-title="Sports",Arena Sport 1
-https://sfdsd.globalweb.ru.com/cdn/premium135/mono.m3u8|referer=https://eplayer.click/
+https://router.cdn.rcs.net.ar/mnp/espn/output.mpd
 
 #EXTINF:-1 xui-id="89118" tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vrqsrx1433781528.png" group-title="Sports",Arena Sport 2
-https://sfdsd.globalweb.ru.com/cdn/premium136/mono.m3u8|referer=https://eplayer.click/
+https://router.cdn.rcs.net.ar/mnp/espn2/output.mpd
 
 #EXTINF:-1 xui-id="89119" tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/uuqqxq1433781899.png" group-title="Sports",Arena Sport 3
-https://sfdsd.globalweb.ru.com/cdn/premium139/mono.m3u8|referer=https://eplayer.click/
+https://router.cdn.rcs.net.ar/mnp/espn3/output.mpd
 
 #EXTINF:-1 xui-id="90269" tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Eurosport_1_UK.png" group-title="Sports",Eurosport 1
 http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
