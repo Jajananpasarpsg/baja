@@ -166,11 +166,11 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8?cp=en
 http://pull.qn32.com/live/ff1/playlist.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv2hd.png" group-title="Sports",Sport TV 2
-https://sfdsd.globalweb.ru.com/cdn/premium74/mono.m3u8|referer=https://eplayer.click/
+https://cdn-uk.dravie.host/cdn/premium74/playlist.m3u8
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-TYA71ryPkNA/XX5k570rpPI/AAAAAAAAA1U/3Di6rEiQpjwD3C73Qme58m45n-Vv5dMEQCLcBGAsYHQ/s1600/Sport%2BTV%2B1.png" group-title="Sports",Sport TV 1
-https://sfdsd.globalweb.ru.com/cdn/premium49/mono.m3u8|referer=https://eplayer.click/
+https://cdn-uk.dravie.host/cdn/premium49/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dravie.host/license.php?id=a35c43ff90d667ba1285ad0ae34ae810&key=99191e99138dc6aca5ed5febe3a817a4
@@ -187,16 +187,16 @@ http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="Sports",Astro SuperSport 1
-https://ad2017.vhls.ru.com/cdnus/premium123/index.m3u8|referer=https://streamservicehd.click/
+https://cdn-uk.dravie.host/cdn/premium123/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="Sports",Astro SuperSport 2
-https://ad2017.vhls.ru.com/cdnus/premium124/index.m3u8|referer=https://streamservicehd.click/
+https://cdn-uk.dravie.host/cdn/premium124/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="Sports",Astro SuperSport 3
-https://ad2017.vhls.ru.com/cdnus/premium125/index.m3u8|referer=https://streamservicehd.click/
+https://cdn-uk.dravie.host/cdn/premium125/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="Sports",Astro SuperSport 4
-https://ad2017.vhls.ru.com/cdnus/premium126/index.m3u8|referer=https://streamservicehd.click/
+https://cdn-uk.dravie.host/cdn/premium126/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png" tvg-id="EPG" group-title="Sports", ASSP5
-https://ad2017.vhls.ru.com/cdnus/premium43/index.m3u8|referer=https://streamservicehd.click/
+https://cdn-uk.dravie.host/cdn/premium43/playlist.m3u8
 
 
 #EXTINF:-1 xui-id="89117" tvg-id="" tvg-name="" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG-1536x570.png" group-title="Sports",ESPN
@@ -213,16 +213,16 @@ http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://platinumxmedia.xyz:8080/images/fd0c145b099e7b306d2a2abae6e0e8e8.png" group-title="Sports",SkySport Premiere League
-https://ad2017.vhls.ru.com/cdn/premium130/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
+https://cdn-uk.dravie.host/cdn/premium130/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="Sports",BT Sport 1
-https://ad2017.vhls.ru.com/cdn/premium31/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
+https://cdn-uk.dravie.host/cdn/premium31/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sIIFREX.png" group-title="Sports",BT Sport 2
-https://ad2017.vhls.ru.com/cdn/premium32/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
+https://cdn-uk.dravie.host/cdn/premium32/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8IzsrMb.png" group-title="Sports",BT Sport 3
-https://ad2017.vhls.ru.com/cdn/premium33/tracks-v1a1/mono.m3u8|referer=https://eplayer.click/
+https://cdn-uk.dravie.host/cdn/premium33/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9vThdk9rQOI/YQ-Gajvgd8I/AAAAAAAAAEM/XI3p44TzWc0Vsl6xM1xGM0wIK94oCVOZgCLcBGAsYHQ/w1200-h630-p-k-no-nu/sports1.png" group-title="Sports",Unifi Sport 1
