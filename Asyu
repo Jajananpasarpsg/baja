@@ -158,7 +158,7 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8?cp=en
 
 
 #EXTINF:0 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwMQowf-6NvKVR1nVaAyU5x6BCO_cIqjQJTQ&usqp=CAU" group-title="Sports", SkySport F1
-http://pull.qn32.com/live/ff1/playlist.m3u8
+https://ad2017.vhls.ru.com/lb/premium60/index.m3u8?|Referer=https://streamservicehd.click/
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv2hd.png" group-title="Sports",Sport TV 2
 https://lshstream.xyz/hls/allsportsicu18/index.m3u8?Pericopalotes135
