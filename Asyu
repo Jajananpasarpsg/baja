@@ -125,15 +125,11 @@ https://liveanevia.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/97/Soccer_Channel.png" group-title="Sports", Utama Soccer Channel
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DWog3fR.png" group-title="Sports", Usee Sports 1
-http://iptvid.my.id/nyak/useetl1.m3u8
+http://iptvid.my.id/hmm/useetl1.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jJY4VIw.png" group-title="Sports" , Usee Sports 2
-http://iptvid.my.id/nyak/useetl2.m3u8
+http://iptvid.my.id/hmm/useetl2.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -216,7 +212,7 @@ http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
 https://cdn-uk.dravie.host/cdn/premium130/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="Sports",BT Sport 1
-https://cdn-uk.dravie.host/cdn/premium31/playlist.m3u8
+https://lshstream.xyz/hls/allsportsicu09/index.m3u8?Pericopalotes135
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sIIFREX.png" group-title="Sports",BT Sport 2
 https://cdn-uk.dravie.host/cdn/premium32/playlist.m3u8
