@@ -185,8 +185,8 @@ https://lshstream.xyz/hls/allsportsicu04/index.m3u8?Pericopalotes135
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vowBrPg.png" group-title="Sports",SuperSport 5
 https://lshstream.xyz/hls/allsportsicu05/index.m3u8?Pericopalotes135
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png" tvg-id="EPG" group-title="Sports", ASSP5
-https://zcri.vhls.ru.com/cdn/premium43/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/
+#EXTINF:-1 tvg-logo="https://topnet.ma/site/uploads/2021/Nov/08/bein%20sport%201%20english.png" tvg-id="EPG" group-title="Sports", Bein Sports English 1
+https://cdn.castmax.live/hls/star29.m3u8|referer=https://castmax.live/
 
 
 #EXTINF:-1 xui-id="89117" tvg-id="" tvg-name="" tvg-logo="https://blog.logomyway.com/wp-content/uploads/2021/04/ESPN-Logo-PNG-1536x570.png" group-title="Sports",ESPN
