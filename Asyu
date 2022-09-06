@@ -156,14 +156,14 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8?cp=en
 
 
 #EXTINF:0 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwMQowf-6NvKVR1nVaAyU5x6BCO_cIqjQJTQ&usqp=CAU" group-title="Sports", SkySport F1
-https://ad2017.vhls.ru.com/lb/premium60/index.m3u8?|Referer=https://streamservicehd.click/
+https://cdn.castmax.live/hls/streamhd60.m3u8|referer=https://castmax.live/
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv2hd.png" group-title="Sports",Sport TV 2
 https://lshstream.xyz/hls/allsportsicu18/index.m3u8?Pericopalotes135
 
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-TYA71ryPkNA/XX5k570rpPI/AAAAAAAAA1U/3Di6rEiQpjwD3C73Qme58m45n-Vv5dMEQCLcBGAsYHQ/s1600/Sport%2BTV%2B1.png" group-title="Sports",Sport TV 1
-https://zcri.vhls.ru.com/cdn/premium49/tracks-v1a1/mono.m3u8?|Referer=https://streamservicehd.click/
+https://cdn.castmax.live/hls/streamhd49.m3u8|referer=https://castmax.live/
 
 
 
@@ -203,7 +203,7 @@ http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://platinumxmedia.xyz:8080/images/fd0c145b099e7b306d2a2abae6e0e8e8.png" group-title="Sports",SkySport Premiere League
-http://slive.webhockey.xyz/hls/S2.m3u8|referer=http://hockeyweb.live/daily/footy/brighton0922/?sport=soccer
+https://cdn.castmax.live/hls/streamhd130.m3u8|referer=https://castmax.live/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="Sports",BT Sport 1
 https://cdn.castmax.live/hls/streamhd31.m3u8|referer=https://castmax.live/
