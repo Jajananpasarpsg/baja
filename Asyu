@@ -206,13 +206,13 @@ http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
 https://cdn.castmax.live/hls/streamhd130.m3u8|referer=https://castmax.live/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="Sports",BT Sport 1
-https://cdn.castmax.live/hls/streamhd31.m3u8|referer=https://castmax.live/
+http://31.172.87.52:2200/EX/UKSD_BT_Sport_1_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sIIFREX.png" group-title="Sports",BT Sport 2
-https://cdn.castmax.live/hls/streamhd32.m3u8|referer=https://castmax.live/
+http://31.172.87.52:2200/EX/UKSD_BT_Sport_2_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8IzsrMb.png" group-title="Sports",BT Sport 3
-https://cdn.castmax.live/hls/streamhd33.m3u8|referer=https://castmax.live/
+http://31.172.87.52:2200/EX/UKSD_BT_Sport_3_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9vThdk9rQOI/YQ-Gajvgd8I/AAAAAAAAAEM/XI3p44TzWc0Vsl6xM1xGM0wIK94oCVOZgCLcBGAsYHQ/w1200-h630-p-k-no-nu/sports1.png" group-title="Sports",Unifi Sport 1
