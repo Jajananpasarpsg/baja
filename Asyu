@@ -177,13 +177,13 @@ http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qE3DDKX.png" group-title="Sports",SuperSport 2
-https://lshstream.xyz/hls/allsportsicu02/index.m3u8?Pericopalotes135
+http://31.172.87.50:2200/AFR-EX/SuperSport_Football_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sPnZ0d5.png" group-title="Sports",SuperSport 3
-https://lshstream.xyz/hls/allsportsicu03/index.m3u8?Pericopalotes135
+http://31.172.87.50:2200/AFR-EX/SuperSport_LaLiga_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/S6eGs4t.png" group-title="Sports",SuperSport 4
-https://lshstream.xyz/hls/allsportsicu04/index.m3u8?Pericopalotes135
+http://31.172.87.50:2200/AFR-EX/SuperSport_Variety_1_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vowBrPg.png" group-title="Sports",SuperSport 5
-https://lshstream.xyz/hls/allsportsicu05/index.m3u8?Pericopalotes135
+http://31.172.87.50:2200/AFR-EX/SuperSport_Variety_2_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-logo="https://topnet.ma/site/uploads/2021/Nov/08/bein%20sport%201%20english.png" tvg-id="EPG" group-title="Sports", Bein Sports English 1
 https://cdn.castmax.live/hls/star29.m3u8|referer=https://castmax.live/
