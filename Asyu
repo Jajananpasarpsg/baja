@@ -156,7 +156,7 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8?cp=en
 
 
 #EXTINF:0 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwMQowf-6NvKVR1nVaAyU5x6BCO_cIqjQJTQ&usqp=CAU" group-title="Sports", SkySport F1
-https://cdn.castmax.live/hls/streamhd60.m3u8|referer=https://castmax.live/
+http://31.172.87.51:2200/EX/Sky_Sports_F1_HD-uk/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,1661784409183.4814651659=|User-agent=REDLINECLIENT
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv2hd.png" group-title="Sports",Sport TV 2
 https://lshstream.xyz/hls/allsportsicu18/index.m3u8?Pericopalotes135
