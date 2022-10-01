@@ -7,13 +7,13 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-4
 
   
 #EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="https://www.eyetooth.design/wp-content/uploads/2020/04/live-event-stream-logo-design_colour-1.png" group-title="Live Event" , Live Event Stream
-https://www.dropbox.com/s/cf48856yikjsp9f/master.m3u8?dl=1
+https://tv.zonanime.my.id/vidio/championstv1.m3u8
   
 #EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="https://www.eyetooth.design/wp-content/uploads/2020/04/live-event-stream-logo-design_colour-1.png" group-title="Live Event" , Live Event Stream 02
-https://www.dropbox.com/s/hocqh2gfyb23pxq/master-7.m3u8?dl=1
+https://tv.zonanime.my.id/vidio/championstv2.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-name="" tvg-logo="https://www.eyetooth.design/wp-content/uploads/2020/04/live-event-stream-logo-design_colour-1.png" group-title="Live Event" , Live Event Stream 03
-https://www.dropbox.com/s/2bgmqsdhcki5t1e/master-10.m3u8?dl=1
+https://tv.zonanime.my.id/vidio/championstv3.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
