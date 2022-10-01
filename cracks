@@ -243,7 +243,8 @@ http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/141759.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Fox-sports-3-colour.png/revision/latest/scale-to-width-down/200?cb=20170407121736" group-title="Sports",Fox Sport 505
 http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/141760.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwEe4ye7lGXXjxHfQ1Ogfgh7Ugg9pjOMmGuQ&usqp=CAU" group-title="Sports",USA SPORT PREMIER LEAGUE
+http://bobblegroup.azureedge.net/hls/usa/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
