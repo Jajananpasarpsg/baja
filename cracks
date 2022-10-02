@@ -214,7 +214,7 @@ http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://platinumxmedia.xyz:8080/images/fd0c145b099e7b306d2a2abae6e0e8e8.png" group-title="Sports",SkySport Premiere League
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
-https://ddy1.vhls.ru.com/ddy1/premium31/tracks-v1a1/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+https://ddy1.vhls.ru.com/ddy1/premium125/tracks-v1a1/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7dg7EB7.png" group-title="Sports",BT Sport 1
 http://31.172.87.52:2200/EX/UKSD_BT_Sport_1_SD-uk/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
