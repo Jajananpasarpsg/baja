@@ -170,7 +170,6 @@ https://lshstream.xyz/hls/allsportsicu18/index.m3u8?Pericopalotes135
 https://ddy1.vhls.ru.com/ddy1/premium49/tracks-v1a1/mono.m3u8?|referer=https://streamservicehd.click/&User-agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/ixqrsj1601112641.png" group-title="Sports",Eleven Sport 1
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/i7mjna1601113121.png" group-title="Sports",Eleven Sport 2
@@ -244,7 +243,7 @@ http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/141759.m3u8
 http://clientsportals.com:2095/live/zsjc2FSW/mrFswGP1/141760.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwEe4ye7lGXXjxHfQ1Ogfgh7Ugg9pjOMmGuQ&usqp=CAU" group-title="Sports",USA SPORT PREMIER LEAGUE
-http://bobblegroup.azureedge.net/hls/usa/playlist.m3u8
+https://ddy1.vhls.ru.com/ddy1/premium125/tracks-v1a1/mono.m3u8?|referer=https://streamservicehd.click/&User-agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
