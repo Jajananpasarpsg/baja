@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1,New1
+https://smart-tv.livedoomovies.com:4431/02_epl1_720p/chunklist.m3u8?|referer=https://www.movie87hd.com/&User-agent=REDLINECLIENT
+#EXTINF:-1,anyar
 http://203.77.246.50:5000/udp/239.1.1.14:5000
 #EXTINF:-1,New2
 http://203.77.246.50:5000/udp/239.1.1.8:5000
