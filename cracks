@@ -170,7 +170,7 @@ https://sport.livedoomovies.com:4431/02_PremierHD1_480p/chunklist.m3u8?|referer=
 https://sport.livedoomovies.com:4431/02_PremierHD2_480p/chunklist.m3u8?|referer=https://www.movie87hd.com/&User-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/ixqrsj1601112641.png" group-title="Sports",Eleven Sport 1
-https://ptstream.livechymde.xyz/hls/elevensport1/playlist.m3u8?|referer=https://aesport.tv/&User-agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+https://ptstream.livechymde.xyz/hls/elevensport1/livehd/elevensport1_level2/chunks.m3u8?|referer=https://aesport.tv/&User-agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/i7mjna1601113121.png" group-title="Sports",Eleven Sport 2
 https://ptstream.livechymde.xyz/hls/elevensport2/playlist.m3u8?|referer=https://aesport.tv/&User-agent=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/2ls4291601118186.png" group-title="Sports",Eleven Sport 3
